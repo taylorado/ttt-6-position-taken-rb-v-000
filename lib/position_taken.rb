@@ -5,6 +5,7 @@ def position_taken?(board, index)
     return true
   else
     return false
+    # May need to account for other possibilities?
   end
 
 end
